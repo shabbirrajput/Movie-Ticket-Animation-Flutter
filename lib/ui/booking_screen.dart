@@ -21,11 +21,11 @@ class BookingScreen extends StatefulWidget {
 class _BookingScreenState extends State<BookingScreen>
     with TickerProviderStateMixin {
   Size get _size => MediaQuery.of(context).size;
-  List<AnimationController> _dateSelectorACList = List();
-  List<Animation<double>> _dateSelectorTweenList = List();
+  List<AnimationController> _dateSelectorACList = [];
+  List<Animation<double>> _dateSelectorTweenList = [];
 
-  List<AnimationController> _timeSelectorACList = List();
-  List<Animation<double>> _timeSelectorTweenList = List();
+  List<AnimationController> _timeSelectorACList = [];
+  List<Animation<double>> _timeSelectorTweenList = [];
 
   AnimationController _dateBackgroundAc;
   Animation<double> _dateBackgroundTween;

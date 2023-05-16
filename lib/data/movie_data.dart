@@ -110,7 +110,7 @@ class MovieModel {
   Image imageText;
   String videoClipPath;
   String videoClipReflectionPath;
-  List<MovieCastModel> castList = List();
+  List<MovieCastModel> castList = [];
 
   MovieModel(
       {this.id,

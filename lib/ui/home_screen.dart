@@ -113,7 +113,7 @@ class _HomeScreenState extends State<HomeScreen>
         height: _size.height * .75,
         child: NotificationListener<OverscrollIndicatorNotification>(
           onNotification: (overScroll) {
-            overScroll.disallowGlow();
+            overScroll.disallowIndicator();
             return true;
           },
           child: ScrollSnapList(

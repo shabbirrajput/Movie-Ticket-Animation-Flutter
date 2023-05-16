@@ -4,7 +4,7 @@
             "outputFile": "com.movieticket.movie_ticket.app-mergeDebugResources-11:/values/values.xml",
             "map": [
                 {
-                    "source": "/home/mohmadshabbir/Downloads/Movie-ticket-master/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/mohmadshabbir/AndroidStudioProjects/Movie-ticket/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
