@@ -5,4 +5,4 @@
   <img src="https://i.imgur.com/5ByIYST.png" width="200" />
 </p>
 
-Hi! If you like it, don't forget to hit star button ^_^
+Hi! If you like it, Don't forget to hit star button ^_^
